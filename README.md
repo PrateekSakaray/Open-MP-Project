@@ -1,4 +1,4 @@
-# Sleeping Barber - Concurrent Programming
+# Open MP - Concurrent Programming
 
 ## Introduction
 Matrix multiplication is a basic computational methodology that is used in engineering application
